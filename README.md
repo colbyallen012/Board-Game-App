@@ -1,4 +1,7 @@
 # Board, not bored!
+
+Deployed app https://colbyallen012.github.io/Board-Game-App/
+
 ### Created By:
 
 Colby Allen https://github.com/colbyallen012 
